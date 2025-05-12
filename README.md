@@ -2,6 +2,7 @@
 This is a list of projects I have achieved professionally, however due to security concerns I can not provide screenshots, only methodology and explenation of what was involved.
 <div>
 </div>
+
 ## Network and Endpoint Vulnerability in Nmap
 
 This project was self-assigned to detect what vulnerabilities were on our endpoints
